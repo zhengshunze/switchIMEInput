@@ -1,0 +1,9 @@
+C:\Users\ZEZE\source\repos\WindowsFormsApp13\WindowsFormsApp13\bin\Debug\切換新舊IME輸入法.exe.config
+C:\Users\ZEZE\source\repos\WindowsFormsApp13\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.Form1.resources
+C:\Users\ZEZE\source\repos\WindowsFormsApp13\WindowsFormsApp13\obj\Debug\切換新舊IME輸入法.Properties.Resources.resources
+C:\Users\ZEZE\source\repos\WindowsFormsApp13\WindowsFormsApp13\obj\Debug\切換新舊IME輸入法.csproj.GenerateResource.cache
+C:\Users\ZEZE\source\repos\WindowsFormsApp13\WindowsFormsApp13\obj\Debug\切換新舊IME輸入法.exe.licenses
+C:\Users\ZEZE\source\repos\WindowsFormsApp13\WindowsFormsApp13\obj\Debug\切換新舊IME輸入法.csproj.CoreCompileInputs.cache
+C:\Users\ZEZE\source\repos\WindowsFormsApp13\WindowsFormsApp13\obj\Debug\切換新舊IME輸入法.exe
+C:\Users\ZEZE\source\repos\WindowsFormsApp13\WindowsFormsApp13\obj\Debug\切換新舊IME輸入法.pdb
+C:\Users\ZEZE\source\repos\WindowsFormsApp13\WindowsFormsApp13\obj\Debug\切換新舊IME輸入法.csproj.AssemblyReference.cache
